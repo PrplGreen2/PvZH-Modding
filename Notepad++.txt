@@ -1,0 +1,1 @@
+You'll also need a text editor to edit the .json files when Modding. Download it at https://notepad-plus-plus.org/downloads/
