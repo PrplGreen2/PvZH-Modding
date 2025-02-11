@@ -47,3 +47,8 @@ A file used by the PvZ Heroes .apk. that contains the data of all Strategy Decks
 ![image](https://github.com/user-attachments/assets/95da48f7-7769-4e78-88d6-e3c7df24be90)
 
 **IMAGE:** *Examples of Strategy Decks*
+____
+## __cards_minimalizer & cards_formatter__
+These files have a very unique use which I will explain in detail in my upcoming video.
+
+Check regularly at [my YouTube Channel](https://www.youtube.com/@SussyGren) and watch it when it's live.
