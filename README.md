@@ -42,7 +42,7 @@ A file used by the PvZ Heroes .apk. that contains all other parts of the game th
 Its contents include Daily Battles, Random Battles, Campaign Battles, Heroes - their Classes and what Superpowers they use, Decks used by AI or the Player alike in PvE battles, and more.
 ____
 ## __recipe_decks_32__
-A file used by the PvZ Heroes .apk. that contains the data of all premade Decks.
+A file used by the PvZ Heroes .apk. that contains the data of all Strategy Decks.
 
 ![image](https://github.com/user-attachments/assets/95da48f7-7769-4e78-88d6-e3c7df24be90)
 
